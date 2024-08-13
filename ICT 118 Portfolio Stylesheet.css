@@ -360,7 +360,7 @@ html::-webkit-scrollbar {
 
 
 .typing-text{
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 600;
     min-width: 280px;
 }
@@ -370,7 +370,6 @@ html::-webkit-scrollbar {
 }
 
 .typing-text span::before{
-    font-size: 30px;
     content: "Frontend Developer";
     color: var(--bg-color);
     animation: words 20s infinite;
