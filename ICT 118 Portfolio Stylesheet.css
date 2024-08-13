@@ -370,6 +370,7 @@ html::-webkit-scrollbar {
 }
 
 .typing-text span::before{
+    font-size: 30px;
     content: "Frontend Developer";
     color: var(--bg-color);
     animation: words 20s infinite;
